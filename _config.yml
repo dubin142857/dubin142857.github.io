@@ -1,3 +1,11 @@
 theme: jekyll-theme-hacker
+lsi: false
+safe: true
+source: [dubin142857.github.io]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
 kramdown:
-  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
